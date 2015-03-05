@@ -1,0 +1,68 @@
+[
+    {
+        "investments": "Oscorp Corp (OS)",
+        "cashBalance": "$11000",
+        "marketValue": "$2000",
+        "brokerage": "$22",
+        "serviceTax": "$2.5",
+        "portFolio": "2.5%",
+        "details": [
+            {
+                "detail": "Buy Stocks",
+                "share": "65",
+                "price": "$60",
+                "turnOver": "3900"
+            },
+            {
+                "detail": "Sell Stocks",
+                "share": "100",
+                "price": "$50",
+                "turnOver": "5000"
+            }
+        ]
+    },
+    {
+        "investments": "Stark Ind. (SI)",
+        "cashBalance": "$1100",
+        "marketValue": "$125000",
+        "brokerage": "$22",
+        "serviceTax": "$2.5",
+        "portFolio": "2.5%",
+        "details": [
+            {
+                "detail": "Buy Stocks",
+                "share": "65",
+                "price": "$60",
+                "turnOver": "3900"
+            },
+            {
+                "detail": "Sell Stocks",
+                "share": "100",
+                "price": "$50",
+                "turnOver": "5000"
+            }
+        ]
+    },
+    {
+        "investments": "ABC Corp (ABC)",
+        "cashBalance": "$1100",
+        "marketValue": "$2000",
+        "brokerage": "$22",
+        "serviceTax": "$2.5",
+        "portFolio": "2.5%",
+        "details": [
+            {
+                "detail": "Buy Stocks",
+                "share": "65",
+                "price": "$60",
+                "turnOver": "3900"
+            },
+            {
+                "detail": "Sell Stocks",
+                "share": "100",
+                "price": "$50",
+                "turnOver": "5000"
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+{
+    "id": "1",
+    "banking": [
+        {
+            "name": "Bank",
+            "subMenu": [
+                {
+                    "name": "1",
+                    "address": "Market Street, San India  ",
+                    "latitude": 37.774929,
+                    "longitude": -122.419416
+                },
+                {
+                    "name": "2",
+                    "address": "Webster Street, San Francisco",
+                    "latitude": 37.77649,
+                    "longitude": -122.428213
+                },
+                {
+                    "name": "3",
+                    "address": "Bush St, San Francisco",
+                    "latitude": 37.787072,
+                    "longitude": -122.432676
+                },
+                {
+                    "name": "4",
+                    "address": "1525 Market Street, San Francisco",
+                    "latitude": 37.775916,
+                    "longitude": -122.418882
+                }
+            ]
+        },
+        {
+            "name": "ATM",
+            "subMenu": [
+                {
+                    "name": "1",
+                    "address": "Market Street, San Francisco",
+                    "latitude": 37.774929,
+                    "longitude": -122.419416
+                },
+                {
+                    "name": "2",
+                    "address": "Webster Street, San Francisco",
+                    "latitude": 37.77649,
+                    "longitude": -122.428213
+                }
+            ]
+        }
+    ]
+}
+]

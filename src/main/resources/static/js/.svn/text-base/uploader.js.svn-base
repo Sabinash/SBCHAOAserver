@@ -1,0 +1,147 @@
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+(function($) {
+
+    $.fn.uploader = function(baseurl) {
+        var uploader = this;
+        uploader.empty();    
+
+
+        $.ajax({
+            url: baseurl + "api/clean",
+            method: 'delete',
+            async: false,
+            success: function() {
+                uploader.append("<li>Cleaned up Database</li>");
+            }
+        });
+
+
+        $.ajax({
+            url: "data/categories.json",
+            contentType: 'json', dataType: 'json',
+            success: function(categories) {
+                categories.forEach(function(category) {
+                    uploader.uploadCategory(category);
+                });
+            }
+        });
+
+        $.ajax({
+            url: "data/products.json",
+            contentType: 'json', dataType: 'json',
+            success: function(products) {
+                products.forEach(function(product) {
+                    uploader.uploadProduct(product);
+                });
+            }
+        });
+
+        $.ajax({
+            url: "data/coupons.json",
+            contentType: 'json', dataType: 'json',
+            success: function(coupons) {
+                coupons.forEach(function(coupon) {
+                    uploader.uploadCoupon(coupon);
+                });
+            }
+        });
+
+        $.ajax({
+            url: "data/weeklyAds.json",
+            contentType: 'json', dataType: 'json',
+            success: function(weeklyAds) {
+                weeklyAds.forEach(function(weeklyAd) {
+                    uploader.uploadWeeklyAd(weeklyAd);
+                });
+            }
+        });
+
+        $.ajax({
+            url: "data/settings.json",
+            contentType: 'json', dataType: 'json',
+            success: function(settings) {
+                settings.forEach(function(setting) {
+                    uploader.uploadSetting(setting);
+                });
+            }
+        });
+
+        uploader.uploadCategory = function(category) {
+            $.ajax({
+                url: baseurl + "api/categories",
+                method: 'post',
+                dataType: 'json',
+                data: JSON.stringify(category),
+                contentType: 'application/json',
+                success: function() {
+                    uploader.append("<li>Category " + category.name + " created !!</li>");
+                }
+            });
+
+        };
+
+        uploader.uploadProduct = function(product) {
+            $.ajax({
+                url: baseurl + "api/products",
+                method: 'post',
+                dataType: 'json',
+                data: JSON.stringify(product),
+                contentType: 'application/json',
+                success: function() {
+                    uploader.append("<li>Product " + product.sku + " created !!</li>");
+                }
+            });
+
+        };
+
+        uploader.uploadCoupon = function(coupon) {
+            $.ajax({
+                url: baseurl + "api/coupons",
+                method: 'post',
+                dataType: 'json',
+                data: JSON.stringify(coupon),
+                contentType: 'application/json',
+                success: function() {
+                    uploader.append("<li>Coupon " + coupon.name + " created !!</li>");
+                }
+            });
+
+        };
+
+        uploader.uploadWeeklyAd = function(weeklyAd) {
+            $.ajax({
+                url: baseurl + "api/weeklyAds",
+                method: 'post',
+                dataType: 'json',
+                data: JSON.stringify(weeklyAd),
+                contentType: 'application/json',
+                success: function() {
+                    uploader.append("<li>Weekly Ad " + weeklyAd.name + " created !!</li>");
+                }
+            });
+
+        };
+
+        uploader.uploadSetting = function(setting) {
+            $.ajax({
+                url: baseurl + "api/settings",
+                method: 'post',
+                dataType: 'json',
+                data: JSON.stringify(setting),
+                contentType: 'application/json',
+                success: function() {
+                    uploader.append("<li>Setting " + setting.name + " created !!</li>");
+                }
+            });
+
+        };
+
+        return this;
+    };
+
+}(jQuery));
+

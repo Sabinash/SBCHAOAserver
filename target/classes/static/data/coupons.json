@@ -1,0 +1,172 @@
+[
+    {
+        "name": "001",
+        "label": "Coupon Label",
+        "imageUrl": null,
+        "description": "Coupon Description",
+        "discountPercentage": 10,
+        "couponId": null,
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be0efe4b0d6ea3a6532f4",
+        "label": "20% off on custom cases for Consumer Goods",
+        "imageUrl": null,
+        "description": "Flat 20% off on personalized cases for Consumer Goods, Valid till 17th June 2014",
+        "discountPercentage": 20,
+        "couponId": "DIS012002",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be0c1e4b0d6ea3a6532f3",
+        "label": "10% off on custom cases for Mobiles and Tablets",
+        "imageUrl": null,
+        "description": "Flat 10% off on personalized cases for mobiles and tablets, Valid till 17th June 2014",
+        "discountPercentage": 10,
+        "couponId": "DIS012001",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be223e4b0d6ea3a6532f8",
+        "label": "10% off on custom cases for Mobiles and Tablets",
+        "imageUrl": null,
+        "description": "Flat 10% off on personalized cases for mobiles and tablets, Valid till 17th June 2014",
+        "discountPercentage": 10,
+        "couponId": "DIS012009",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be10de4b0d6ea3a6532f5",
+        "label": "20% off on custom cases for Tablets",
+        "imageUrl": null,
+        "description": "Flat 20% off on personalized cases for Tablets, Valid till 17th June 2014",
+        "discountPercentage": 20,
+        "couponId": "DIS012003",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be132e4b0d6ea3a6532f6",
+        "label": "50% off on custom cases for Clothes and Apparels",
+        "imageUrl": null,
+        "description": "Flat 50% off on personalized cases for Clothes and Apparels, Valid till 17th June 2014",
+        "discountPercentage": 50,
+        "couponId": "DIS012004",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be21be4b0d6ea3a6532f7",
+        "label": "10% off on custom cases for Mobiles and Tablets",
+        "imageUrl": null,
+        "description": "Flat 10% off on personalized cases for mobiles and tablets, Valid till 17th June 2014",
+        "discountPercentage": 10,
+        "couponId": "DIS012005",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be236e4b0d6ea3a6532fa",
+        "label": "20% off on custom cases for Consumer Goods",
+        "imageUrl": null,
+        "description": "Flat 20% off on personalized cases for Consumer Goods, Valid till 17th June 2014",
+        "discountPercentage": 20,
+        "couponId": "DIS012006",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be245e4b0d6ea3a6532fc",
+        "label": "20% off on custom cases for Consumer Goods",
+        "imageUrl": null,
+        "description": "Flat 20% off on personalized cases for Consumer Goods, Valid till 17th June 2014",
+        "discountPercentage": 20,
+        "couponId": "DIS012014",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be23be4b0d6ea3a6532fb",
+        "label": "20% off on custom cases for Consumer Goods",
+        "imageUrl": null,
+        "description": "Flat 20% off on personalized cases for Consumer Goods, Valid till 17th June 2014",
+        "discountPercentage": 20,
+        "couponId": "DIS012010",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be271e4b0d6ea3a653301",
+        "label": "50% off on custom cases for Clothes and Apparels",
+        "imageUrl": null,
+        "description": "Flat 50% off on personalized cases for Clothes and Apparels, Valid till 17th June 2014",
+        "discountPercentage": 50,
+        "couponId": "DIS012012",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be26ae4b0d6ea3a653300",
+        "label": "50% off on custom cases for Clothes and Apparels",
+        "imageUrl": null,
+        "description": "Flat 50% off on personalized cases for Clothes and Apparels, Valid till 17th June 2014",
+        "discountPercentage": 50,
+        "couponId": "DIS012008",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be227e4b0d6ea3a6532f9",
+        "label": "10% off on custom cases for Mobiles and Tablets",
+        "imageUrl": null,
+        "description": "Flat 10% off on personalized cases for mobiles and tablets, Valid till 17th June 2014",
+        "discountPercentage": 10,
+        "couponId": "DIS012013",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be252e4b0d6ea3a6532fd",
+        "label": "20% off on custom cases for Tablets",
+        "imageUrl": null,
+        "description": "Flat 20% off on personalized cases for Tablets, Valid till 17th June 2014",
+        "discountPercentage": 20,
+        "couponId": "DIS012007",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be25be4b0d6ea3a6532ff",
+        "label": "20% off on custom cases for Tablets",
+        "imageUrl": null,
+        "description": "Flat 20% off on personalized cases for Tablets, Valid till 17th June 2014",
+        "discountPercentage": 20,
+        "couponId": "DIS012015",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be256e4b0d6ea3a6532fe",
+        "label": "20% off on custom cases for Tablets",
+        "imageUrl": null,
+        "description": "Flat 20% off on personalized cases for Tablets, Valid till 17th June 2014",
+        "discountPercentage": 20,
+        "couponId": "DIS012011",
+        "price": null,
+        "offerPrice": null
+    },
+    {
+        "name": "536be278e4b0d6ea3a653302",
+        "label": "50% off on custom cases for Clothes and Apparels",
+        "imageUrl": null,
+        "description": "Flat 50% off on personalized cases for Clothes and Apparels, Valid till 17th June 2014",
+        "discountPercentage": 50,
+        "couponId": "DIS012016",
+        "price": null,
+        "offerPrice": null
+    }
+]

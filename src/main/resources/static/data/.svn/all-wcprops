@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/iservices-web/!svn/ver/1/src/main/resources/static/data
+END
+weeklyAds.json
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/iservices-web/!svn/ver/2/src/main/resources/static/data/weeklyAds.json
+END
+brokerage
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/iservices-web/!svn/ver/2/src/main/resources/static/data/brokerage
+END
+accountDetails
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/iservices-web/!svn/ver/2/src/main/resources/static/data/accountDetails
+END
+budgetSpending
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/iservices-web/!svn/ver/2/src/main/resources/static/data/budgetSpending
+END
+stores.json
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/iservices-web/!svn/ver/2/src/main/resources/static/data/stores.json
+END
+settings.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/iservices-web/!svn/ver/1/src/main/resources/static/data/settings.json
+END
+products.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/iservices-web/!svn/ver/1/src/main/resources/static/data/products.json
+END
+categories.json
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/iservices-web/!svn/ver/2/src/main/resources/static/data/categories.json
+END
+accountsSummary
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/iservices-web/!svn/ver/2/src/main/resources/static/data/accountsSummary
+END
+information.json
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/iservices-web/!svn/ver/2/src/main/resources/static/data/information.json
+END
+coupons.json
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/iservices-web/!svn/ver/1/src/main/resources/static/data/coupons.json
+END

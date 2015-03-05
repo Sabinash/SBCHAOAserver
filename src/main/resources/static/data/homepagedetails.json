@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "homePage": [
+            {
+                "name": "Banking",
+                "subMenu": 
+                    {
+                        "id_key": "10",
+                        "name": "Account Summary"
+                    }
+                   
+            },
+            {
+                "name": "Service",
+                "subMenu": 
+                    {
+                        "id_key": "15",
+                        "name": "Retirement Planning"
+                    }
+                  
+            },
+            {
+                "name": "Support Center",
+                "subMenu":
+                    {
+                        "id_key": "20",
+                        "name": "Online Assistance"
+                    }
+                  
+            },
+            {
+                "name": "Find ATM/Branch",
+                "subMenu": 
+                    {
+                        "id_key": "144",
+                        "name": "ATM Locator"
+                    }
+                   
+            },
+            {
+                "name": "Themes",
+                "subMenu": 
+                    {
+                        "id_key": "first",
+                        "name": "Francisco Bank Theme"
+                    }
+                    
+            }
+        ]
+    }
+]

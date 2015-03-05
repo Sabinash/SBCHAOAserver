@@ -1,0 +1,121 @@
+[
+    {
+        "date": "02/05/14",
+        "transaction": "IB FUNDS TRANSFER CR-09890989009809",
+        "withdrawal": "1300",
+        "deposit": "63500.0",
+        "closingAmt": "104202.02"
+    },
+    {
+        "date": "03/05/14",
+        "transaction": "03531050025784  -TPT-FROM MATTHEW",
+        "withdrawal": "1900",
+        "deposit": "63500.0",
+        "closingAmt": "104202.02"
+    },
+    {
+        "date": "04/05/14",
+        "transaction": "IB FUNDS TRANSFER DR-09890989009809",
+        "withdrawal": "1000",
+        "deposit": "600",
+        "closingAmt": "106102.02"
+    },
+    {
+        "date": "05/02/14",
+        "transaction": "IB FUNDS TRANSFER CR-09890989009809",
+        "withdrawal": "2000",
+        "deposit": "63500",
+        "closingAmt": "107102.02"
+    },
+    {
+        "date": "07/05/14",
+        "transaction": "SWIFT DR-SCB00000-ADAM SMITH-NETBANK, MUM-N1111111111",
+        "withdrawal": "7000",
+        "deposit": "63500",
+        "closingAmt": "84202.02"
+    },
+    {
+        "date": "09/05/14",
+        "transaction": "CARD ISSUANCE FEES : CARD ISSUANCE / RELOAD CHARGES",
+        "withdrawal": "100",
+        "deposit": "63500",
+        "closingAmt": "79102.02"
+    },
+    {
+        "date": "10/05/14",
+        "transaction": "05091610041030  -TPT-FROM PIPER",
+        "withdrawal": "10000",
+        "deposit": "63500",
+        "closingAmt": "91202.02"
+    },
+    {
+        "date": "11/05/14",
+        "transaction": "28501000001093  -TPT-PHONE",
+        "withdrawal": "600",
+        "deposit": "30000",
+        "closingAmt": "109102.02"
+    },
+    {
+        "date": "12/05/14",
+        "transaction": "IB FUNDS TRANSFER DR-09890989009809",
+        "withdrawal": "108000",
+        "deposit": "63500",
+        "closingAmt": "1102.02"
+    },
+    {
+        "date": "16/05/14",
+        "transaction": "CASH DEP IT PARK, CA",
+        "withdrawal": "200",
+        "deposit": "2500",
+        "closingAmt": "81202.02"
+    },
+    {
+        "date": "17/05/14",
+        "transaction": "NWD-5264190157361931-N1435001-SAN FRANCISCO",
+        "withdrawal": "1800",
+        "deposit": "63500",
+        "closingAmt": "79402.02"
+    },
+    {
+        "date": "18/05/14",
+        "transaction": "ATW-5264190157361931-S1ACBL08-ITPL WHITEFIE",
+        "withdrawal": "400",
+        "deposit": "63500",
+        "closingAmt": "702.02"
+    },
+    {
+        "date": "20/05/14",
+        "transaction": "ST & CESS ON SERVICE CHGS FOR 100514",
+        "withdrawal": "12.36",
+        "deposit": "63500",
+        "closingAmt": "79389.66"
+    },
+    {
+        "date": "21/05/14",
+        "transaction": "IB FUNDS TRANSFER DR-09890989009809",
+        "withdrawal": "1300",
+        "deposit": "63500",
+        "closingAmt": "78089.66"
+    },
+    {
+        "date": "23/05/14",
+        "transaction": "IB FUNDS TRANSFER DR-09890989009809",
+        "withdrawal": "100",
+        "deposit": "1000",
+        "closingAmt": "79089.66"
+    },
+    {
+        "date": "25/05/14",
+        "transaction": "03531021222231 -TPT-WILLIAM PHONE PAYMENT",
+        "withdrawal": "1000",
+        "deposit": "20000",
+        "closingAmt": "95089.66"
+    },
+    {
+        "date": "26/05/14",
+        "transaction": "IB FUNDS TRANSFER DR-09890989009809",
+        "withdrawal": "4000",
+        "deposit": "2200",
+        "closingAmt": "75089.66"
+    }
+]

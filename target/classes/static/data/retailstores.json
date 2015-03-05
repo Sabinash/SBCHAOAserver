@@ -1,0 +1,37 @@
+[
+    {   "id": "1",
+        "name": "Retails",
+        "subMenu": [
+            {
+                "name": "Francisco Store 1",
+                "address": "Market Street, San India",
+                "timeToTravel": "",
+                "latitude": 37.774929,
+                "longitude": -122.419416,
+                "offerDetails": [
+                    "30% off on Electronics"
+                ]
+            },
+            {
+                "name": "Francisco Store 2",
+                "address": "Webster Street, San Francisco",
+                "timeToTravel": "",
+                "latitude": 37.77649,
+                "longitude": -122.428213,
+                "offerDetails": [
+                    "30% off on Consumer Goods"
+                ]
+            },
+            {
+                "name": "Francisco Store 3",
+                "address": "Bush St, San Francisco",
+                "timeToTravel": "",
+                "latitude": 37.787072,
+                "longitude": -122.432676,
+                "offerDetails": [
+                    "20% off on Clothes & Apparels"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "investments": "ABC",
+        "cash_balance": "353",
+        "market_value": "56547654",
+        "brokerage": "4464",
+        "service_tax": "12",
+        "portfolio": "10",
+        "details": {
+            "detail": "BuyStocks",
+            "share": "356454",
+            "price": "12121.00121",
+            "turn_over": "5644.12445"
+        }
+    }
+]
